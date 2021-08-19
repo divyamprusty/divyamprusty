@@ -13,7 +13,3 @@ I am currently gaining experience in Web Development using JavaScript, HTML and 
 - Node JS
 - Express
 - React JS
-
-### Connect with me
-
-- [Email](divyamprusty536@gmail.com)
