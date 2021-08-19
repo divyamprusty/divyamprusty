@@ -14,4 +14,4 @@ I am currently gaining experience in Web Development using JavaScript, HTML and 
 - Express
 - React JS
 
-[![Divyam's github stats](https://github-readme-stats.vercel.app/api?username=divyamprusty)](https://github.com/divyamprusty/github-readme-stats)
+<img  align="center" src="https://github-readme-stats.vercel.app/api?username=divyamprusty&&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=tokyonight" alt="Divyam's Github Stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyamprusty&layout=compact&hide_border=true&theme=tokyonight" alt="Divyam's Github Stats">
