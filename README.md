@@ -13,3 +13,5 @@ I am currently gaining experience in Web Development using JavaScript, HTML and 
 - Node JS
 - Express
 - React JS
+
+[![Divyam's github stats](https://github-readme-stats.vercel.app/api?username=divyamprusty)](https://github.com/divyamprusty/github-readme-stats)
