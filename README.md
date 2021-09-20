@@ -2,7 +2,7 @@
 
 I am currently in Class XI and studying in [Delhi Public School R.K Puram](dpsrkp.net).
 I am a member of my school tech club [Exun](https://exunclan.com).
-I am currently gaining experience in Web Development using JavaScript, HTML and CSS.
+I am currently gaining experience in Web Development using HTML, CSS, Javascript and Python.
 
 ### Skills
 
