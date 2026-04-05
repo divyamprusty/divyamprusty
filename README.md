@@ -25,7 +25,6 @@ Outside of work, I love playing cricket, badminton, and volleyball. I also enjoy
 
 ## 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyamprusty&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="195" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyamprusty&theme=radical&hide_border=true&background=0D1117" height="195" alt="GitHub Streak" />
 </div>
 
